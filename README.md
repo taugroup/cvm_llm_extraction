@@ -9,7 +9,7 @@ A user-friendly tool for extracting structured data from veterinary medical docu
 - **Simple Setup**: Minimal configuration required
 
 ## Requirements 📋
-- Python 3.9+
+- Python 3.11 or more
 - [Ollama](https://ollama.com/) running locally
 - 8GB+ available RAM (16GB+ recommended)
 
